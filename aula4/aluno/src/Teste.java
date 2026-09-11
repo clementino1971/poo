@@ -4,6 +4,8 @@ class Teste{
         Aluno aluno_top = new Aluno("Julio", 18, 6.0, 6.0);
 //        aluno_top.exibirBoletim();
 
+        aluno_top.nota1 = 10.0;
+
         Aluno aluno_legal = new Aluno("Sara", 28, 5.0, 5.0);
 //        aluno_legal.exibirBoletim();
 
